@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Author</key>
+	<string>Unknown</string>
+	<key>Buffer Order</key>
+	<array>
+		<string>Main</string>
+		<string>Globe</string>
+		<string>Features</string>
+		<string>Touch</string>
+		<string>BinDecHex</string>
+		<string>Slider</string>
+		<string>TouchUtilities</string>
+		<string>MeshExt</string>
+		<string>utf8Case</string>
+		<string>utf8</string>
+		<string>Colour</string>
+		<string>Font</string>
+		<string>Matrix</string>
+		<string>Menu</string>
+		<string>RoundedRectangle</string>
+		<string>Lengths</string>
+		<string>UI</string>
+		<string>VecExt</string>
+		<string>MathsUtilities</string>
+		<string>View</string>
+		<string>Vector</string>
+		<string>Coordinates</string>
+		<string>ColourNames</string>
+	</array>
+	<key>Dependencies</key>
+	<array/>
+	<key>Description</key>
+	<string>No description available</string>
+	<key>Icon</key>
+	<string>Icon.png</string>
+</dict>
+</plist>
